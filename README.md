@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Arielito Manoriña 👋  
 
-<!--
-**Arieellls/Arieellls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech enthusiast | Developer | Lifelong learner  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me  
+
+- 💻 Building with **React Native**, **Next.js**, and **Flutter**  
+- 🎓 Exploring **Web development**, **AI**, **Computer Vision**, and **Mobile development**  
+- 🌱 Passionate about creating impactful, user-friendly solutions  
+
+---
+
+## Skills  
+
+- **Languages:** JavaScript, Python, Dart  
+- **Frameworks:** React, Flutter, TensorFlow Lite  
+- **Tools:** VS Code, **Adobe Illustrator**, **Adobe Photoshop**,
