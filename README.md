@@ -7,7 +7,7 @@
 </a>
 </p>
 
-mostly awake at night, making things nobody asked for.
+mostly awake at night, making things nobody asked for. *yet.*
 
 ### what i do around here
 
