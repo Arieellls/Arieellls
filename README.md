@@ -1,6 +1,6 @@
 <a href="https://github.com/Arieellls">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Arieellls/Arieellls/raw/main/assets/banner.gif">
+    <source type="image/webp" srcset="https://github.com/Arieellls/Arieellls/raw/main/assets/banner.webp">
     <img src="https://github.com/Arieellls/Arieellls/raw/main/assets/banner.gif" alt="Banner">
   </picture>
 </a>
