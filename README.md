@@ -1,9 +1,11 @@
+<p align="center">
 <a href="https://github.com/Arieellls">
   <picture>
     <source type="image/webp" srcset="https://github.com/Arieellls/Arieellls/raw/main/assets/banner.webp">
     <img src="https://github.com/Arieellls/Arieellls/raw/main/assets/banner.gif" alt="Banner">
   </picture>
 </a>
+</p>
 
 mostly awake at night, making things nobody asked for.
 
