@@ -1,19 +1,18 @@
-# Hi, I'm Arielito Manoriña 👋  
+<a href="https://github.com/Arieellls">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Arieellls/Arieellls/raw/main/assets/banner.gif">
+    <img src="https://github.com/Arieellls/Arieellls/raw/main/assets/banner.gif" alt="Banner">
+  </picture>
+</a>
 
-Tech enthusiast | Developer | Lifelong learner  
+mostly awake at night, making things nobody asked for.
 
----
+### what i do around here
 
-## About Me  
+i make small apps and tools — mostly for myself, sometimes for friends. if they end up useful, that's a bonus.
 
-- 💻 Building with **React Native**, **Next.js**, and **Flutter**  
-- 🎓 Exploring **Web development**, **AI**, **Computer Vision**, and **Mobile development**  
-- 🌱 Passionate about creating impactful, user-friendly solutions  
+### currently
 
----
+building a little app i needed myself. it's coming along.
 
-## Skills  
-
-- **Languages:** JavaScript, Python, Dart  
-- **Frameworks:** React, Flutter, TensorFlow Lite  
-- **Tools:** VS Code, **Adobe Illustrator**, **Adobe Photoshop**,
+*this readme is a work in progress. like everything else i've made.*
